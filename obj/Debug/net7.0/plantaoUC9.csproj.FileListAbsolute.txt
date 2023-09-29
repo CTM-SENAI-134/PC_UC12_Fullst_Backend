@@ -1,0 +1,15 @@
+C:\Users\matheus.holanda.INFOLOCAL\Desktop\plantaoUC9\bin\Debug\net7.0\plantaoUC9.exe
+C:\Users\matheus.holanda.INFOLOCAL\Desktop\plantaoUC9\bin\Debug\net7.0\plantaoUC9.deps.json
+C:\Users\matheus.holanda.INFOLOCAL\Desktop\plantaoUC9\bin\Debug\net7.0\plantaoUC9.runtimeconfig.json
+C:\Users\matheus.holanda.INFOLOCAL\Desktop\plantaoUC9\bin\Debug\net7.0\plantaoUC9.dll
+C:\Users\matheus.holanda.INFOLOCAL\Desktop\plantaoUC9\bin\Debug\net7.0\plantaoUC9.pdb
+C:\Users\matheus.holanda.INFOLOCAL\Desktop\plantaoUC9\obj\Debug\net7.0\plantaoUC9.csproj.AssemblyReference.cache
+C:\Users\matheus.holanda.INFOLOCAL\Desktop\plantaoUC9\obj\Debug\net7.0\plantaoUC9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.holanda.INFOLOCAL\Desktop\plantaoUC9\obj\Debug\net7.0\plantaoUC9.AssemblyInfoInputs.cache
+C:\Users\matheus.holanda.INFOLOCAL\Desktop\plantaoUC9\obj\Debug\net7.0\plantaoUC9.AssemblyInfo.cs
+C:\Users\matheus.holanda.INFOLOCAL\Desktop\plantaoUC9\obj\Debug\net7.0\plantaoUC9.csproj.CoreCompileInputs.cache
+C:\Users\matheus.holanda.INFOLOCAL\Desktop\plantaoUC9\obj\Debug\net7.0\plantaoUC9.dll
+C:\Users\matheus.holanda.INFOLOCAL\Desktop\plantaoUC9\obj\Debug\net7.0\refint\plantaoUC9.dll
+C:\Users\matheus.holanda.INFOLOCAL\Desktop\plantaoUC9\obj\Debug\net7.0\plantaoUC9.pdb
+C:\Users\matheus.holanda.INFOLOCAL\Desktop\plantaoUC9\obj\Debug\net7.0\plantaoUC9.genruntimeconfig.cache
+C:\Users\matheus.holanda.INFOLOCAL\Desktop\plantaoUC9\obj\Debug\net7.0\ref\plantaoUC9.dll
